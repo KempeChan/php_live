@@ -1,4 +1,6 @@
-php_live
+PHP Live Editor
 ========
 
-php live debugger
+1. 可在线实时增删改查文件
+2. 可实时预览PHP执行结果
+3. 自带工具库，包括格式转换等等
