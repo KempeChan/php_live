@@ -1,1 +1,1 @@
-{"name":"Php live","tagline":"php live debugger","body":"### Welcome to PHP Live Pages.\r\n功能： \r\n* 实时调试PHP代码\r\n* 可在线增删改查文件\r\n\r\n     \r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Php live","tagline":"php live debugger","body":"PHP Live Editor\r\n========\r\n\r\n1. 可在线实时增删改查文件\r\n2. 可实时预览PHP执行结果\r\n3. 自带工具库，包括格式转换等等\r\n","google":"UA-41261242-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
